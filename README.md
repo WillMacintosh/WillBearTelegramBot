@@ -3,7 +3,8 @@
 ## Overview
 The WillBear Telegram Bot was an early version of the user platform based on the WillBear algorithms. This bot is designed to provide users with financial data analysis straight to their phone. It offers a range of commands allowing users to query financial data, including price movements, confidence percentages, and asset listings.
 
-![image](https://github.com/WillMacintosh/WillBearTelegramBot/assets/161491924/ce642750-f457-4563-9f2a-dca3c5837773)
+![Screenshot](https://i.imgur.com/S0SDWo8.png)
+
 Above is a screenshot from a later version of the WillBear platform. Built using HTML, CSS, JS, PHP, MySQL
 
 ## Features
